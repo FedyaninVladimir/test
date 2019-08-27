@@ -19,9 +19,6 @@ npm run build
 ```
 npm run test
 
-### Run your server
-
-npm run server
 
 ### Lints and fixes files
 ```
